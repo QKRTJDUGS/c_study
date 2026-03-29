@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+void main()
+{
+
+	printf("d /[ 1 ]= [ 2 ] \n", 100, 200, 0.5);
+	printf("[ 3 ] %c \n", 'a', 'K');
+	printf("%s %s \n", "¾È³ç", "C ¾ð¾î");
+}
